@@ -1,0 +1,14 @@
+D:\GitHub\PIU\Biblioteca\Lucru_Fisier\bin\Debug\Lucru_Fisier.dll.config
+D:\GitHub\PIU\Biblioteca\Lucru_Fisier\bin\Debug\Lucru_Fisier.dll
+D:\GitHub\PIU\Biblioteca\Lucru_Fisier\bin\Debug\Lucru_Fisier.pdb
+D:\GitHub\PIU\Biblioteca\Lucru_Fisier\bin\Debug\Carte.dll
+D:\GitHub\PIU\Biblioteca\Lucru_Fisier\bin\Debug\Persoana.dll
+D:\GitHub\PIU\Biblioteca\Lucru_Fisier\bin\Debug\Carte.pdb
+D:\GitHub\PIU\Biblioteca\Lucru_Fisier\bin\Debug\Carte.dll.config
+D:\GitHub\PIU\Biblioteca\Lucru_Fisier\bin\Debug\Persoana.pdb
+D:\GitHub\PIU\Biblioteca\Lucru_Fisier\bin\Debug\Persoana.dll.config
+D:\GitHub\PIU\Biblioteca\Lucru_Fisier\obj\Debug\Lucru_Fisier.csprojAssemblyReference.cache
+D:\GitHub\PIU\Biblioteca\Lucru_Fisier\obj\Debug\Lucru_Fisier.csproj.CoreCompileInputs.cache
+D:\GitHub\PIU\Biblioteca\Lucru_Fisier\obj\Debug\Lucru_Fisier.csproj.CopyComplete
+D:\GitHub\PIU\Biblioteca\Lucru_Fisier\obj\Debug\Lucru_Fisier.dll
+D:\GitHub\PIU\Biblioteca\Lucru_Fisier\obj\Debug\Lucru_Fisier.pdb

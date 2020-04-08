@@ -1,0 +1,14 @@
+D:\GitHub\Biblioteca\Persoana\bin\Debug\Persoana.dll.config
+D:\GitHub\Biblioteca\Persoana\bin\Debug\Persoana.dll
+D:\GitHub\Biblioteca\Persoana\bin\Debug\Persoana.pdb
+D:\GitHub\Biblioteca\Persoana\obj\Debug\Persoana.csprojAssemblyReference.cache
+D:\GitHub\Biblioteca\Persoana\obj\Debug\Persoana.csproj.CoreCompileInputs.cache
+D:\GitHub\Biblioteca\Persoana\obj\Debug\Persoana.dll
+D:\GitHub\Biblioteca\Persoana\obj\Debug\Persoana.pdb
+D:\GitHub\PIU\Biblioteca\Persoana\bin\Debug\Persoana.dll.config
+D:\GitHub\PIU\Biblioteca\Persoana\bin\Debug\Persoana.dll
+D:\GitHub\PIU\Biblioteca\Persoana\bin\Debug\Persoana.pdb
+D:\GitHub\PIU\Biblioteca\Persoana\obj\Debug\Persoana.csprojAssemblyReference.cache
+D:\GitHub\PIU\Biblioteca\Persoana\obj\Debug\Persoana.csproj.CoreCompileInputs.cache
+D:\GitHub\PIU\Biblioteca\Persoana\obj\Debug\Persoana.dll
+D:\GitHub\PIU\Biblioteca\Persoana\obj\Debug\Persoana.pdb

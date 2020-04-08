@@ -1,0 +1,14 @@
+D:\GitHub\Biblioteca\Carte\bin\Debug\Carte.dll.config
+D:\GitHub\Biblioteca\Carte\bin\Debug\Carte.dll
+D:\GitHub\Biblioteca\Carte\bin\Debug\Carte.pdb
+D:\GitHub\Biblioteca\Carte\obj\Debug\Carte.csprojAssemblyReference.cache
+D:\GitHub\Biblioteca\Carte\obj\Debug\Carte.csproj.CoreCompileInputs.cache
+D:\GitHub\Biblioteca\Carte\obj\Debug\Carte.dll
+D:\GitHub\Biblioteca\Carte\obj\Debug\Carte.pdb
+D:\GitHub\PIU\Biblioteca\Carte\bin\Debug\Carte.dll.config
+D:\GitHub\PIU\Biblioteca\Carte\bin\Debug\Carte.dll
+D:\GitHub\PIU\Biblioteca\Carte\bin\Debug\Carte.pdb
+D:\GitHub\PIU\Biblioteca\Carte\obj\Debug\Carte.csprojAssemblyReference.cache
+D:\GitHub\PIU\Biblioteca\Carte\obj\Debug\Carte.csproj.CoreCompileInputs.cache
+D:\GitHub\PIU\Biblioteca\Carte\obj\Debug\Carte.dll
+D:\GitHub\PIU\Biblioteca\Carte\obj\Debug\Carte.pdb

@@ -1,0 +1,11 @@
+D:\GitHub\PIU\Biblioteca\Persoana\bin\Debug\Persoana.dll.config
+D:\GitHub\PIU\Biblioteca\Persoana\bin\Debug\Persoana.dll
+D:\GitHub\PIU\Biblioteca\Persoana\bin\Debug\Persoana.pdb
+D:\GitHub\PIU\Biblioteca\Persoana\obj\Debug\Pers.csprojAssemblyReference.cache
+D:\GitHub\PIU\Biblioteca\Persoana\obj\Debug\Pers.csproj.CoreCompileInputs.cache
+D:\GitHub\PIU\Biblioteca\Persoana\obj\Debug\Persoana.dll
+D:\GitHub\PIU\Biblioteca\Persoana\obj\Debug\Persoana.pdb
+D:\GitHub\PIU\Biblioteca\Persoana\bin\Debug\Carte.dll
+D:\GitHub\PIU\Biblioteca\Persoana\bin\Debug\Carte.pdb
+D:\GitHub\PIU\Biblioteca\Persoana\bin\Debug\Carte.dll.config
+D:\GitHub\PIU\Biblioteca\Persoana\obj\Debug\Pers.csproj.CopyComplete

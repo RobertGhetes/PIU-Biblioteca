@@ -1,0 +1,7 @@
+D:\GitHub\PIU\Biblioteca\Carte\bin\Debug\Carte.dll.config
+D:\GitHub\PIU\Biblioteca\Carte\bin\Debug\Carte.dll
+D:\GitHub\PIU\Biblioteca\Carte\bin\Debug\Carte.pdb
+D:\GitHub\PIU\Biblioteca\Carte\obj\Debug\Carte_Biblio.csproj.CoreCompileInputs.cache
+D:\GitHub\PIU\Biblioteca\Carte\obj\Debug\Carte.dll
+D:\GitHub\PIU\Biblioteca\Carte\obj\Debug\Carte.pdb
+D:\GitHub\PIU\Biblioteca\Carte\obj\Debug\Carte_Biblio.csprojAssemblyReference.cache
